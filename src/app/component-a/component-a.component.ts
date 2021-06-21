@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./component-a.component.css']
 })
 export class ComponentAComponent implements OnInit {
-  public sendInputOne: string = 'suman is testing';
+  public sendInputOne: string = 'user is testing';
   public outPutOne: any;
 
   constructor() {}
